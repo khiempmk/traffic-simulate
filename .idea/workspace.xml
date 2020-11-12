@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a90c740-94fa-4969-bd64-acb4ab210b47" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bA3KyUK8vCzjW8I7YoLmiFgPuK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="simulator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Desktop\trafic_simulations_ver4\conf" />
+      <recent name="D:\Code\Desktop\trafic_simulations_ver2" />
+      <recent name="D:\Code\Desktop\trafic_simulations_ver2\trafic_v2" />
+      <recent name="D:\Code\Desktop\trafic_simulations_ver2\conf" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Simulator">
+    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulator.Function" />
+      <module name="trafic_simulations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulator.Runner" />
+      <module name="trafic_simulations_ver2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulator.Simulator" />
+      <module name="trafic_simulations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisualizeHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simulator.VisualizeHelper" />
+      <module name="trafic_simulations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simulator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.Simulator" />
+      <item itemvalue="Application.VisualizeHelper" />
+      <item itemvalue="Application.Function" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Simulator" />
+        <item itemvalue="Application.Function" />
+        <item itemvalue="Application.VisualizeHelper" />
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a90c740-94fa-4969-bd64-acb4ab210b47" name="Default Changelist" comment="" />
+      <created>1588061010419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588061010419</updated>
+      <workItem from="1588061014976" duration="43159000" />
+      <workItem from="1588160573827" duration="9105000" />
+      <workItem from="1588295227927" duration="129000" />
+      <workItem from="1588507844387" duration="8792000" />
+      <workItem from="1588570953211" duration="1096000" />
+      <workItem from="1588609307342" duration="1204000" />
+      <workItem from="1588729476803" duration="6003000" />
+      <workItem from="1588747026456" duration="44009000" />
+      <workItem from="1588899298885" duration="7132000" />
+      <workItem from="1589789207565" duration="2101000" />
+      <workItem from="1589791391843" duration="3430000" />
+      <workItem from="1589795449089" duration="9477000" />
+      <workItem from="1590141284626" duration="599000" />
+      <workItem from="1590161616031" duration="976000" />
+      <workItem from="1590311999273" duration="1179000" />
+      <workItem from="1590504778970" duration="50000" />
+      <workItem from="1595303190334" duration="1220000" />
+      <workItem from="1596720939023" duration="3723000" />
+      <workItem from="1597983998853" duration="31000" />
+      <workItem from="1599035201186" duration="1003000" />
+      <workItem from="1603031898610" duration="920000" />
+      <workItem from="1603154718561" duration="1386000" />
+      <workItem from="1605187592771" duration="7345000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1605199854177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605199854177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/simulator/CarSimulator.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/simulator/CarSimulator.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="inputFile" language="JAVA" />
+        <watch expression="getPosition(sendTime - startTime)" language="JAVA" />
+        <watch expression="((ArrayList) Simulator.gNB.inputList).size" language="JAVA" />
+        <watch expression="Simulator.rsuList" language="JAVA" />
+        <watch expression="mean_car" language="JAVA" />
+        <watch expression="NUM_MESSAGE_PER_SECOND" language="JAVA" />
+        <watch expression="lamda" language="JAVA" />
+        <watch expression="rsuList" language="JAVA" />
+        <watch expression="mean_car" language="JAVA" />
+        <watch expression="mean_rsu" language="JAVA" />
+        <watch expression="mean_gnb" language="JAVA" />
+        <watch expression="mean_car" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
